@@ -14,7 +14,7 @@ report - uploaded to github <br>
 This project contains 3 seperate iterations and improvements to the original idea each code is in a seperate folder
 
 #### ★ MARK 1:
-Mark1 was developed in visual studio 2022. Clone the repo adn run the source.cpp file 
+Mark1 was developed in visual studio 2022. Clone the repo and run the source.cpp file 
 
 #### ★ MARK 2:
 Mark2 was developed on google collab. Clone and run the .ipynb file inside the mark2 directory
